@@ -5,18 +5,18 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: start;
   height: 100vh;
-  margin: 0px;
+  margin: 5rem;
+  padding: 0;
+
 }
 
 
-.container {
-  max-width: 30rem;
-  margin: 5rem auto;
-}
+
 
 .joke {
+  max-width: 30rem;
   margin-bottom: 2rem;
 }
 
